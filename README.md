@@ -20,7 +20,7 @@ La calificación mayor y la menor
 
 Cantidad de aprobados y reprobados
 
-Prueba de ejecucio:
+Prueba de ejecucion:
 
 <img width="618" height="804" alt="image" src="https://github.com/user-attachments/assets/fed376b1-5b6e-4ffd-9c68-1f046721566b" /> 
 
