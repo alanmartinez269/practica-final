@@ -11,9 +11,13 @@ Un bucle para que nos permita ingresar las 4 calificaciones
 Y el programa muestra lo siguiente:
 
 Las calificaciones de cada estudiante
+
 El promedio de cada uno
+
 El promedio general del grupo
+
 La calificación mayor y la menor
+
 Cantidad de aprobados y reprobados
 
 Prueba de ejecucio:
