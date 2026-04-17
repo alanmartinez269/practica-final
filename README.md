@@ -8,7 +8,7 @@ Mandato:
 
 Realizamos el programa donde nos pide maximo 20 estudiantes, esto lo hicimos con un bucle do while que si no son mas de  20 pide la cantidad de nuevo.
 Creamos un arreglo para almacenar las calificaciones.
-Un bucle para que nos permita ingresar las 4 calificaciones
+Un bucle para que nos permita ingresar las 4 calificaciones con el parametro de 0-100
 Y el programa muestra lo siguiente:
 
 Las calificaciones de cada estudiante
