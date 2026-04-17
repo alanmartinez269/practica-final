@@ -30,5 +30,5 @@ En el caso de que alguna calificacion sea menor a 0 o mayor a 100 el programa mu
 
 <img width="415" height="717" alt="image" src="https://github.com/user-attachments/assets/fcdacdc0-6020-4905-a396-608c4e3db1de" />
 
-**Arreglos**
+**Arreglos**:
 Para los arreglos se uso un arreglo bidimensional para las calificaciones, donde cada fila es un estudiante y las columnas sus calificaciones y otro arreglo para los promedios de todos los estudiantess.
