@@ -1,6 +1,8 @@
 # practica-final
 Nombre/Matricula: Alan Albert Del Rosario Martinez (2025-0370)
 Mandato:
+
+
 <img width="415" height="483" alt="image" src="https://github.com/user-attachments/assets/e777538b-9e9f-496f-b907-8086e1bd4560" />
 
 Realizamos el programa donde nos pide maximo 20 estudiantes, esto lo hicimos con un bucle do while que si no son mas de  20 pide la cantidad de nuevo.
